@@ -1,0 +1,14 @@
+body {
+	background: #099;
+	color: white;
+	width: 60%;
+	margin: 0 auto;
+}
+
+p {
+	margin: 0.5em 0;
+}
+
+.highlight {
+	color: yellow;
+}
