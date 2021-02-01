@@ -5,6 +5,10 @@ body {
 	margin: 0 auto;
 }
 
+h1 {
+	font-family: sans-serif;
+}
+
 p {
 	margin: 0.5em 0;
 }
