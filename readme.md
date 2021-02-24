@@ -6,3 +6,5 @@ This is a repository which contains solutions to lab exercises.
 ([live version](https://ctec3905-2020-21.github.io/lab-solutions/lab-01/))
 - [Lab 2: A bit more of everything](lab-02)
 ([live version](https://ctec3905-2020-21.github.io/lab-solutions/lab-02/))
+- [Lab 4: A responsive menu](lab-04)
+([live version](https://ctec3905-2020-21.github.io/lab-solutions/lab-04/))
